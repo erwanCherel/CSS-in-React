@@ -1,0 +1,32 @@
+
+
+#card {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 500px;
+}
+
+#cover-title {
+    display: flex;
+    gap: 30px;
+    border-bottom: solid 2px rgb(236, 236, 236);
+}
+
+#rate {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem; 
+    filter: contrast(0);
+}
+
+.star {
+    width: 40px;
+}
+
+#album-cover {
+height: 165px;
+}
+
+h3 {
+    font-weight: 400;
+}
